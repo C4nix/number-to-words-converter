@@ -11,7 +11,11 @@ For example, `123` → `"one hundred and twenty-three"`.
 ✅ Well-structured, modular, and easy to read code  
 
 ## 📦 Installation & Usage  
-Simply run the script with Python:  
+First, clone it using the GitHub CLI.
+```sh
+gh repo clone C4nix/number-to-words-converter
+```
+then : Simply run the script with Python:  
 ```sh
 python number_to_word.py
 ```
