@@ -1,4 +1,5 @@
-
+![Languages](https://img.shields.io/github/languages/top/C4nix/number-to-words-converter)
+![License: MIT](https://img.shields.io/badge/License-MIT-purpule.svg)
 # Number to Words Converter 📝🔢
 
 A simple yet effective Python program that converts numbers into their textual representation.  
